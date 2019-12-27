@@ -1,0 +1,497 @@
+[
+ {
+   "qword": "sein",
+   "translation": ["to be"],
+   "difficulty": 0
+ },
+ {
+   "qword": "haben",
+   "translation": ["to have"],
+   "difficulty": 0
+ },
+ {
+   "qword": "werden",
+   "translation": ["to become"],
+   "difficulty": 0
+ },
+ {
+   "qword": "können",
+   "translation": ["can","to be able to"],
+   "difficulty": 0
+ },
+ {
+   "qword": "müssen",
+   "translation": ["must","to have to"],
+   "difficulty": 0
+ },
+ {
+   "qword": "sagen",
+   "translation": ["to say"],
+   "difficulty": 0
+ },
+ {
+   "qword": "machen",
+   "translation": ["to do","to make"],
+   "difficulty": 0
+ },
+ {
+   "qword": "geben",
+   "translation": ["to give"],
+   "difficulty": 0
+ },
+ {
+   "qword": "kommen",
+   "translation": ["to come"],
+   "difficulty": 0
+ },
+ {
+   "qword": "sollen",
+   "translation": ["should","to ought to"],
+   "difficulty": 0
+ },
+ {
+   "qword": "wollen",
+   "translation": ["to want"],
+   "difficulty": 1
+ },
+ {
+   "qword": "gehen",
+   "translation": ["to go"],
+   "difficulty": 1
+ },
+ {
+   "qword": "wissen",
+   "translation": ["to know"],
+   "difficulty": 1
+ },
+ {
+   "qword": "sehen",
+   "translation": ["to see"],
+   "difficulty": 1
+ },
+ {
+   "qword": "lassen",
+   "translation": ["to let","to allow","to have done"],
+   "difficulty": 1
+ },
+ {
+   "qword": "stehen",
+   "translation": ["to stand"],
+   "difficulty": 1
+ },
+ {
+   "qword": "finden",
+   "translation": ["to find"],
+   "difficulty": 1
+ },
+ {
+   "qword": "bleiben",
+   "translation": ["to stay","to remain"],
+   "difficulty": 1
+ },
+ {
+   "qword": "liegen",
+   "translation": ["to lie","to be lying"],
+   "difficulty": 1
+ },
+ {
+   "qword": "heißen",
+   "translation": ["to be called"],
+   "difficulty": 1
+ },
+ {
+   "qword": "denken",
+   "translation": ["to think"],
+   "difficulty": 1
+ },
+ {
+   "qword": "nehmen",
+   "translation": ["to take"],
+   "difficulty": 1
+ },
+ {
+   "qword": "tun",
+   "translation": ["to do"],
+   "difficulty": 1
+ },
+ {
+   "qword": "dürfen",
+   "translation": ["may","to be allowed"],
+   "difficulty": 1
+ },
+ {
+   "qword": "glauben",
+   "translation": ["to believe"],
+   "difficulty": 1
+ },
+ {
+   "qword": "halten",
+   "translation": ["to stop","to hold"],
+   "difficulty": 1
+ },
+ {
+   "qword": "nennen",
+   "translation": ["to name","to call a name"],
+   "difficulty": 1
+ },
+ {
+   "qword": "mögen",
+   "translation": ["to like"],
+   "difficulty": 1
+ },
+ {
+   "qword": "zeigen",
+   "translation": ["to show"],
+   "difficulty": 1
+ },
+ {
+   "qword": "führen",
+   "translation": ["to lead"],
+   "difficulty": 1
+ },
+ {
+   "qword": "sprechen",
+   "translation": ["to speak"],
+   "difficulty": 2
+ },
+ {
+   "qword": "bringen",
+   "translation": ["to bring","to take"],
+   "difficulty": 2
+ },
+ {
+   "qword": "leben",
+   "translation": ["to live"],
+   "difficulty": 2
+ },
+ {
+   "qword": "fahren",
+   "translation": ["to drive","to ride","to go"],
+   "difficulty": 2
+ },
+ {
+   "qword": "meinen",
+   "translation": ["to think","to have an opinion"],
+   "difficulty": 2
+ },
+ {
+   "qword": "fragen",
+   "translation": ["to ask"],
+   "difficulty": 2
+ },
+ {
+   "qword": "kennen",
+   "translation": ["to know"],
+   "difficulty": 2
+ },
+ {
+   "qword": "gelten",
+   "translation": ["to be valid"],
+   "difficulty": 2
+ },
+ {
+   "qword": "stellen",
+   "translation": ["to place","to set"],
+   "difficulty": 2
+ },
+ {
+   "qword": "spielen",
+   "translation": ["to play"],
+   "difficulty": 2
+ },
+ {
+   "qword": "arbeiten",
+   "translation": ["to work"],
+   "difficulty": 2
+ },
+ {
+   "qword": "brauchen",
+   "translation": ["to need"],
+   "difficulty": 2
+ },
+ {
+   "qword": "folgen",
+   "translation": ["to follow"],
+   "difficulty": 2
+ },
+ {
+   "qword": "lernen",
+   "translation": ["to learn"],
+   "difficulty": 2
+ },
+ {
+   "qword": "bestehen",
+   "translation": ["to exist","to insist","to pass an exam"],
+   "difficulty": 2
+ },
+ {
+   "qword": "verstehen",
+   "translation": ["to understand"],
+   "difficulty": 2
+ },
+ {
+   "qword": "setzen",
+   "translation": ["to set","to put","to place"],
+   "difficulty": 2
+ },
+ {
+   "qword": "bekommen",
+   "translation": ["to get","to receive"],
+   "difficulty": 2
+ },
+ {
+   "qword": "beginnen",
+   "translation": ["to begin"],
+   "difficulty": 2
+ },
+ {
+   "qword": "erzählen",
+   "translation": ["to narrate","to tell"],
+   "difficulty": 2
+ },
+ {
+   "qword": "versuchen",
+   "translation": ["to try","to attempt"],
+   "difficulty": 3
+ },
+ {
+   "qword": "schreiben",
+   "translation": ["to write"],
+   "difficulty": 3
+ },
+ {
+   "qword": "laufen,",
+   "translation": ["to run"],
+   "difficulty": 3
+ },
+ {
+   "qword": "erklären",
+   "translation": ["to explain"],
+   "difficulty": 3
+ },
+ {
+   "qword": "entsprechen",
+   "translation": ["to correspond"],
+   "difficulty": 3
+ },
+ {
+   "qword": "sitzen",
+   "translation": ["to sit"],
+   "difficulty": 3
+ },
+ {
+   "qword": "ziehen",
+   "translation": ["to pull","to move"],
+   "difficulty": 3
+ },
+ {
+   "qword": "scheinen",
+   "translation": ["to shine","to seem","to appear"],
+   "difficulty": 3
+ },
+ {
+   "qword": "fallen",
+   "translation": ["to fall"],
+   "difficulty": 3
+ },
+ {
+   "qword": "gehören",
+   "translation": ["to belong"],
+   "difficulty": 3
+ },
+ {
+   "qword": "entstehen",
+   "translation": ["to originate","to develop"],
+   "difficulty": 3
+ },
+ {
+   "qword": "erhalten",
+   "translation": ["to receive"],
+   "difficulty": 3
+ },
+ {
+   "qword": "treffen",
+   "translation": ["to meet"],
+   "difficulty": 3
+ },
+ {
+   "qword": "suchen",
+   "translation": ["to search","to look for"],
+   "difficulty": 3
+ },
+ {
+   "qword": "legen",
+   "translation": ["to lay","to put"],
+   "difficulty": 3
+ },
+ {
+   "qword": "vor·stellen",
+   "translation": ["to introduce","to imagine"],
+   "difficulty": 3
+ },
+ {
+   "qword": "handeln",
+   "translation": ["to deal","to trade"],
+   "difficulty": 3
+ },
+ {
+   "qword": "erreichen",
+   "translation": ["to achieve","to reach"],
+   "difficulty": 3
+ },
+ {
+   "qword": "tragen",
+   "translation": ["to carry","to wear"],
+   "difficulty": 3
+ },
+ {
+   "qword": "schaffen",
+   "translation": ["to manage","to create"],
+   "difficulty": 3
+ },
+ {
+   "qword": "lesen",
+   "translation": ["to read"],
+   "difficulty": 4
+ },
+ {
+   "qword": "verlieren",
+   "translation": ["to lose"],
+   "difficulty": 4
+ },
+ {
+   "qword": "dar·stellen",
+   "translation": ["to depict","to portray"],
+   "difficulty": 4
+ },
+ {
+   "qword": "erkennen",
+   "translation": ["to recognize","to admit"],
+   "difficulty": 4
+ },
+ {
+   "qword": "entwickeln",
+   "translation": ["to develop"],
+   "difficulty": 4
+ },
+ {
+   "qword": "reden",
+   "translation": ["to talk"],
+   "difficulty": 4
+ },
+ {
+   "qword": "aus·sehen",
+   "translation": ["to appear","to look a certain way"],
+   "difficulty": 4
+ },
+ {
+   "qword": "erscheinen",
+   "translation": ["to appear"],
+   "difficulty": 4
+ },
+ {
+   "qword": "bilden",
+   "translation": ["to form","to educate"],
+   "difficulty": 4
+ },
+ {
+   "qword": "an·fangen",
+   "translation": ["to begin"],
+   "difficulty": 4
+ },
+ {
+   "qword": "erwarten",
+   "translation": ["to expect"],
+   "difficulty": 4
+ },
+ {
+   "qword": "wohnen",
+   "translation": ["to live"],
+   "difficulty": 4
+ },
+ {
+   "qword": "betreffen",
+   "translation": ["to affect","to concern"],
+   "difficulty": 4
+ },
+ {
+   "qword": "warten",
+   "translation": ["to wait"],
+   "difficulty": 4
+ },
+ {
+   "qword": "vergehen",
+   "translation": ["to elapse; to decay"],
+   "difficulty": 4
+ },
+ {
+   "qword": "helfen",
+   "translation": ["to help"],
+   "difficulty": 4
+ },
+ {
+   "qword": "gewinnen",
+   "translation": ["to win"],
+   "difficulty": 4
+ },
+ {
+   "qword": "schließen",
+   "translation": ["to close"],
+   "difficulty": 4
+ },
+ {
+   "qword": "fühlen",
+   "translation": ["to feel"],
+   "difficulty": 4
+ },
+ {
+   "qword": "bieten",
+   "translation": ["to offer"],
+   "difficulty": 4
+ }
+ {
+   "qword": "erinnern",
+   "translation": ["to remember"],
+   "difficulty": 4
+ },
+ {
+   "qword": "ergeben",
+   "translation": ["to result in"],
+   "difficulty": 4
+ },
+ {
+   "qword": "an·bieten",
+   "translation": ["to offer"],
+   "difficulty": 4
+ },
+ {
+   "qword": "studieren",
+   "translation": ["to study"],
+   "difficulty": 4
+ },
+ {
+   "qword": "verbinden",
+   "translation": ["to connect,to link"],
+   "difficulty": 4
+ },
+ {
+   "qword": "an·sehen",
+   "translation": ["to look at","to watch"],
+   "difficulty": 4
+ },
+ {
+   "qword": "fehlen",
+   "translation": ["to lack","to be missing","to be absent"],
+   "difficulty": 4
+ },
+ {
+   "qword": "bedeuten",
+   "translation": ["to mean"],
+   "difficulty": 4
+ },
+ {
+   "qword": "vergleichen",
+   "translation": ["to compare"],
+   "difficulty": 4
+ }
+]

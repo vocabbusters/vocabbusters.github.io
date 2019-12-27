@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name='viewport'
+      content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
+	<title>Vocab Busters</title>
+	<link rel="stylesheet" href="language.css"/>
+</head>
+<body>
+
+<article class="rote">
+	<header>
+		<h1>Vocab Busters!</h1>
+	</header>
+			<div id ="stats_bar" class="Row">
+				<div id = "lbl_playerhp" class="Column" style="font-family:'AppleII'">HP:5</div>
+				<div id = "lbl_level" class="Column" style="font-family:'AppleII'">Level:0</div>
+				<div id = "lbl_key" class="Column" style="font-family:'AppleII'">Key:N</div>
+                <div id = "btn_inventory" class="Column" style="font-family:'AppleII'">
+					<input type="button" name="btn_inv" id="btn_inv" value="Inv." onclick="showInventory()">
+                </div>
+			</div>
+			<section id="display"></section>
+			<div id="battle_bar">
+				<b><u>Battle</u></b>
+				<hr>
+				<p id="lbl_question"></p>
+				<!-- text input -->
+				<div id="text_input">
+					<input type="text" name="tinput" id="tinput">
+					<input type="button" name="btn_tsubmit" id="btn_tsubmit" value="ok" onclick="checkAnswer()">
+				</div>
+				<!-- multiple choice -->
+				<div id="radio_input">
+					<input type="radio" name="r_response" class="radios" id="r_response0" accesskey="1" value="va11"><label for="r_response0"></label><br>
+					<input type="radio" name="r_response" class="radios" id="r_response1" accesskey="2" value="val2"><label for="r_response1"></label><br>
+					<input type="radio" name="r_response" class="radios" id="r_response2" accesskey="3" value="val3"><label for="r_response2"></label><br>
+                    <br>
+					<input type="button" name="btn_rsubmit" id="btn_rsubmit" value="ok" style="padding:5px" onclick="checkAnswer()">
+				</div>
+				<p id="lbl_result"></p>
+			</div>
+			<section id="console"></section>
+</article>
+
+<div id="invModal" class="modal">
+          <!-- Modal content -->
+          <div class="modal-content">
+            <span class="close">&times;</span>
+              <p><b><u>Inventory</u></b></p>
+            <div id="inventory_list"></div>
+          </div>
+
+</div>
+
+<div class="scripts">
+	<script src="dist/rote.js" type="module"></script>
+	<script src="dist/chance.js"></script>
+	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+	<script src="main.js" type="module"></script>
+</div>
+
+</body>
+</html>

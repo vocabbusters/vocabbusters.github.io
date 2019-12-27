@@ -1,0 +1,157 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background: #000;
+	color: #ddd;
+	font-family: 'consolas', monospace;
+	font-size: 1.5vw;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	display: flex;
+}
+
+h1 {
+	color: #777;
+	font-size: 2vw;
+	font-family: 'AppleII';
+	padding-right: 120px;
+}
+
+h2 {
+	font-size: 1.6vw;
+	font-family: 'AppleII';
+}
+
+button {
+	background-color: rgb(0,0,0);
+	color: #ddd;
+	font-family : inherit;
+	padding: 2px;
+}
+
+canvas {
+	border: solid 4px rgba(255, 255, 255, 0.1);
+}
+
+@font-face {
+	font-family: "AppleII";
+	src: url("fonts/AppleII.ttf");
+}
+
+@font-face {
+	font-family: "Fix15MonoBold";
+	src: url("fonts/Fix15Mono-Bold.woff");
+}
+
+@font-face {
+	font-family: "White Rabbit";
+	src: url("fonts/whitrabt.ttf");
+}
+
+
+.Row
+{
+    display: table;
+    width: 100%; /*Optional*/
+    table-layout: auto; /*Optional*/
+    border-spacing: 5px; /*Optional*/
+}
+.Column
+{
+    display: table-cell;
+}
+
+.rote {
+	display: flex;
+	flex-direction: column;
+	justify-content: left;
+	width: 100%;
+	height: 100%;
+}
+
+#console {
+	width: 100%;
+	border: solid 2px rgba(255, 255, 255, 0.1);
+	flex-grow: 1;
+	padding-top: 1em;
+	box-sizing: border-box;
+	overflow-y: scroll;
+	min-height: 50px;
+	scrollbar-width: none; /* Firefox */
+	-ms-overflow-style: none; /* IE */
+}
+	#console::-webkit-scrollbar { /* WebKit */
+		width: 0;
+		height: 0;
+	}
+	#console ul {
+		display: block;
+		padding: 0;
+		margin: 0;
+	}
+	#console ul > li {
+		display: block;
+		margin-bottom: 0.5em;
+	}
+
+#battle_bar{
+	border: solid 4px rgba(255, 255, 255, 0.1);
+	width: 100%;
+	box-sizing: border-box;
+	flex-grow: 0;
+	padding: 1em;
+}
+
+input[type=text]{
+	background-color: rgb(0,0,0);
+	color: #ddd;
+	font-family: inherit;
+}
+
+input[type=button]{
+	background-color: rgb(0,0,0);
+	color: #ddd;
+	font-family: inherit;
+	padding: 3px;
+}
+
+ /* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #3a3a3a;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 60%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}

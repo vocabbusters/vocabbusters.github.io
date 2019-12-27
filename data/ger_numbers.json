@@ -1,0 +1,86 @@
+[
+ {
+   "qword": "null",
+   "translation": ["0"]
+ },
+ {
+   "qword": "eins",
+   "translation": ["1"]
+ },
+ {
+   "qword": "zwei",
+   "translation": ["2"]
+ },
+ {
+   "qword": "drei",
+   "translation": ["3"]
+ },
+ {
+   "qword": "vier",
+   "translation": ["4"]
+ },
+ {
+   "qword": "fünf",
+   "translation": ["5"]
+ },
+ {
+   "qword": "sechs",
+   "translation": ["6"]
+ },
+ {
+   "qword": "sieben",
+   "translation": ["7"]
+ },
+ {
+   "qword": "acht",
+   "translation": ["8"]
+ },
+ {
+   "qword": "neun",
+   "translation": ["9"]
+ },
+ {
+   "qword": "zehn",
+   "translation": ["10"]
+ },
+ {
+   "qword": "elf",
+   "translation": ["11"]
+ },
+ {
+   "qword": "zwölf",
+   "translation": ["12"]
+ },
+ {
+   "qword": "dreizehn",
+   "translation": ["13"]
+ },
+ {
+   "qword": "vierzehn",
+   "translation": ["14"]
+ },
+ {
+   "qword": "fünfzehn",
+   "translation": ["15"]
+ },
+ {
+   "qword": "sechzehn",
+   "translation": ["16"]
+ },
+ {
+   "qword": "siebzehn",
+   "translation": ["17"]
+ },
+ {
+   "qword": "achtzehn",
+   "translation": ["18"]
+ },
+ {
+   "qword": "neunzehn",
+   "translation": ["19"]
+ },
+ {
+   "qword": "zwanzig",
+   "translation": ["20"]
+ }
+]

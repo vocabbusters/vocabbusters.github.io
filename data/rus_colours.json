@@ -1,0 +1,35 @@
+[{
+  "qword": "Белый",
+  "translation": ["White"]
+},{
+  "qword": "Чёрный",
+  "translation": ["Black"]
+},{
+  "qword": "Красный",
+  "translation": ["Red"]
+},{
+  "qword": "Розовый",
+  "translation": ["Pink"]
+},{
+  "qword": "Синий",
+  "translation": ["Dark Blue"]
+},{
+  "qword": "Голубой",
+  "translation":["Light Blue"]
+},{
+  "qword": "Серый",
+  "translation": ["Grey"]
+},{
+  "qword": "Жёлтый",
+  "translation": ["Yellow"]
+},{
+  "qword": "Зелёный",
+  "translation": ["Green"]
+},{
+  "qword": "оранжевый",
+  "translation": ["Orange"]
+},{
+  "qword": "Коричневый",
+ "translation": ["Brown"]
+}
+]
