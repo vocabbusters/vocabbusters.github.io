@@ -1,0 +1,50 @@
+[
+ {
+  "qword": "rot",
+  "translation":["red"]
+ },
+ {
+  "qword": "rosa",
+  "translation":["pink"]
+ },
+ {
+  "qword": "orange",
+  "translation":["orange"]
+ },
+ {
+  "qword": "gelb",
+  "translation":["yellow"]
+ },
+ {
+  "qword": "grün",
+  "translation":["green"]
+ },
+ {
+  "qword": "blau",
+  "translation":["blue"]
+ },
+ {
+  "qword": "lila",
+  "translation":["purple"]
+ },
+ {
+  "qword": "grau",
+  "translation":["gray"]
+ },
+ {
+  "qword": "braun",
+  "translation":["brown"]
+ },
+ {
+  "qword": "beige",
+  "translation":["beige"]
+ },
+ {
+  "qword": "weiß",
+  "translation":["white"]
+ },
+ {
+  "qword": "schwarz",
+  "translation":"black"
+ }
+]

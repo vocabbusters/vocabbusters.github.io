@@ -1,0 +1,462 @@
+[
+  {
+    "qword": "aceptar",
+    "translation": "accept",
+    "difficulty": 0
+  },
+  {
+    "qword": "permitir",
+    "translation": "allow",
+    "difficulty": 0
+  },
+  {
+    "qword": "preguntar",
+    "translation": "ask",
+    "difficulty": 0
+  },
+  {
+    "qword": "creer",
+    "translation": "believe",
+    "difficulty": 0
+  },
+  {
+    "qword": "prestar",
+    "translation": "borrow",
+    "difficulty": 0
+  },
+  {
+    "qword": "romper",
+    "translation": "break",
+    "difficulty": 0
+  },
+  {
+    "qword": "traer",
+    "translation": "bring",
+    "difficulty": 0
+  },
+  {
+    "qword": "comprar",
+    "translation": "buy",
+    "difficulty": 0
+  },
+  {
+    "qword": "poder",
+    "translation": "can/be able",
+    "difficulty": 0
+  },
+  {
+    "qword": "cancelar",
+    "translation": "cancel",
+    "difficulty": 1
+  },
+  {
+    "qword": "cambiar",
+    "translation": "change",
+    "difficulty": 1
+  },
+  {
+    "qword": "limpiar",
+    "translation": "clean",
+    "difficulty": 1
+  },
+  {
+    "qword": "peinar",
+    "translation": "comb",
+    "difficulty": 1
+  },
+  {
+    "qword": "quejarse",
+    "translation": "complain",
+    "difficulty": 1
+  },
+  {
+    "qword": "toser",
+    "translation": "cough",
+    "difficulty": 1
+  },
+  {
+    "qword": "contar",
+    "translation": "count",
+    "difficulty": 1
+  },
+  {
+    "qword": "cortar",
+    "translation": "cut",
+    "difficulty": 1
+  },
+  {
+    "qword": "bailar",
+    "translation": "dance",
+    "difficulty": 1
+  },
+  {
+    "qword": "dibujar",
+    "translation": "draw",
+    "difficulty": 1
+  },
+  {
+    "qword": "beber",
+    "translation": "drink",
+    "difficulty": 1
+  },
+  {
+    "qword": "conducir",
+    "translation": "drive",
+    "difficulty": 1
+  },
+  {
+    "qword": "comer",
+    "translation": "eat",
+    "difficulty": 1
+  },
+  {
+    "qword": "explicar",
+    "translation": "explain",
+    "difficulty": 1
+  },
+  {
+    "qword": "caerse",
+    "translation": "fall",
+    "difficulty": 1
+  },
+  {
+    "qword": "llenar",
+    "translation": "fill",
+    "difficulty": 1
+  },
+  {
+    "qword": "encontrar",
+    "translation": "find",
+    "difficulty": 1
+  },
+  {
+    "qword": "terminar",
+    "translation": "finish",
+    "difficulty": 1
+  },
+  {
+    "qword": "caber",
+    "translation": "fit",
+    "difficulty": 1
+  },
+  {
+    "qword": "reparar",
+    "translation": "fix",
+    "difficulty": 1
+  },
+  {
+    "qword": "volar",
+    "translation": "fly",
+    "difficulty": 2
+  },
+  {
+    "qword": "olvidar",
+    "translation": "forget",
+    "difficulty": 2
+  },
+  {
+    "qword": "dar",
+    "translation": "give",
+    "difficulty": 2
+  },
+  {
+    "qword": "ir",
+    "translation": "go",
+    "difficulty": 2
+  },
+  {
+    "qword": "tener",
+    "translation": "have",
+    "difficulty": 2
+  },
+  {
+    "qword": "oir",
+    "translation": "hear",
+    "difficulty": 2
+  },
+  {
+    "qword": "dañar, herir",
+    "translation": "hurt",
+    "difficulty": 2
+  },
+  {
+    "qword": "conocer",
+    "translation": "know",
+    "difficulty": 2
+  },
+  {
+    "qword": "aprender",
+    "translation": "learn",
+    "difficulty": 2
+  },
+  {
+    "qword": "marcharse",
+    "translation": "leave",
+    "difficulty": 2
+  },
+  {
+    "qword": "escuchar",
+    "translation": "listen",
+    "difficulty": 2
+  },
+  {
+    "qword": "vivir",
+    "translation": "live",
+    "difficulty": 2
+  },
+  {
+    "qword": "mirar",
+    "translation": "look",
+    "difficulty": 2
+  },
+  {
+    "qword": "perder",
+    "translation": "lose",
+    "difficulty": 2
+  },
+  {
+    "qword": "hacer",
+    "translation": "make/do",
+    "difficulty": 2
+  },
+  {
+    "qword": "necesitar",
+    "translation": "need",
+    "difficulty": 2
+  },
+  {
+    "qword": "abrir",
+    "translation": "open",
+    "difficulty": 2
+  },
+  {
+    "qword": "cerrar",
+    "translation": "close/shut",
+    "difficulty": 2
+  },
+  {
+    "qword": "organizar",
+    "translation": "organize",
+    "difficulty": 2
+  },
+  {
+    "qword": "pagar",
+    "translation": "pay",
+    "difficulty": 2
+  },
+  {
+    "qword": "jugar",
+    "translation": "play",
+    "difficulty": 2
+  },
+  {
+    "qword": "poner",
+    "translation": "put",
+    "difficulty": 3
+  },
+  {
+    "qword": "llover",
+    "translation": "rain",
+    "difficulty": 3
+  },
+  {
+    "qword": "leer",
+    "translation": "read",
+    "difficulty": 3
+  },
+  {
+    "qword": "responder",
+    "translation": "reply",
+    "difficulty": 3
+  },
+  {
+    "qword": "correr",
+    "translation": "run",
+    "difficulty": 3
+  },
+  {
+    "qword": "decir",
+    "translation": "say",
+    "difficulty": 3
+  },
+  {
+    "qword": "ver",
+    "translation": "see",
+    "difficulty": 3
+  },
+  {
+    "qword": "vender",
+    "translation": "sell",
+    "difficulty": 3
+  },
+  {
+    "qword": "enviar",
+    "translation": "send",
+    "difficulty": 3
+  },
+  {
+    "qword": "firmar",
+    "translation": "sign",
+    "difficulty": 3
+  },
+  {
+    "qword": "cantar",
+    "translation": "sing",
+    "difficulty": 3
+  },
+  {
+    "qword": "sentarse",
+    "translation": "sit",
+    "difficulty": 3
+  },
+  {
+    "qword": "dormir",
+    "translation": "sleep",
+    "difficulty": 3
+  },
+  {
+    "qword": "fumar",
+    "translation": "smoke",
+    "difficulty": 3
+  },
+  {
+    "qword": "hablar",
+    "translation": "speak",
+    "difficulty": 3
+  },
+  {
+    "qword": "deletrear",
+    "translation": "spell",
+    "difficulty": 3
+  },
+  {
+    "qword": "gastar",
+    "translation": "spend",
+    "difficulty": 3
+  },
+  {
+    "qword": "ponerse de pie",
+    "translation": "stand",
+    "difficulty": 3
+  },
+  {
+    "qword": "comenzar",
+    "translation": "start/begin",
+    "difficulty": 3
+  },
+  {
+    "qword": "estudiar",
+    "translation": "study",
+    "difficulty": 3
+  },
+  {
+    "qword": "tener exito",
+    "translation": "succeed",
+    "difficulty": 4
+  },
+  {
+    "qword": "nadar",
+    "translation": "swim",
+    "difficulty": 4
+  },
+  {
+    "qword": "tomar",
+    "translation": "take",
+    "difficulty": 4
+  },
+  {
+    "qword": "hablar",
+    "translation": "talk",
+    "difficulty": 4
+  },
+  {
+    "qword": "enseñar",
+    "translation": "teach",
+    "difficulty": 4
+  },
+  {
+    "qword": "decir",
+    "translation": "tell",
+    "difficulty": 4
+  },
+  {
+    "qword": "pensar",
+    "translation": "think",
+    "difficulty": 4
+  },
+  {
+    "qword": "traducir",
+    "translation": "translate",
+    "difficulty": 4
+  },
+  {
+    "qword": "viajar",
+    "translation": "travel",
+    "difficulty": 4
+  },
+  {
+    "qword": "intentar",
+    "translation": "try",
+    "difficulty": 4
+  },
+  {
+    "qword": "apagar",
+    "translation": "turn off",
+    "difficulty": 4
+  },
+  {
+    "qword": "encender",
+    "translation": "turn on",
+    "difficulty": 4
+  },
+  {
+    "qword": "escribir a máquina",
+    "translation": "type",
+    "difficulty": 4
+  },
+  {
+    "qword": "entender",
+    "translation": "understand",
+    "difficulty": 4
+  },
+  {
+    "qword": "utilizar",
+    "translation": "use",
+    "difficulty": 4
+  },
+  {
+    "qword": "esperar",
+    "translation": "wait",
+    "difficulty": 4
+  },
+  {
+    "qword": "despertar",
+    "translation": "wake up",
+    "difficulty": 4
+  },
+  {
+    "qword": "querer",
+    "translation": "want",
+    "difficulty": 4
+  },
+  {
+    "qword": "mirar",
+    "translation": "watch",
+    "difficulty": 4
+  },
+  {
+    "qword": "trabajar",
+    "translation": "work",
+    "difficulty": 4
+  },
+  {
+    "qword": "preocuparse",
+    "translation": "worry",
+    "difficulty": 4
+  },
+  {
+    "qword": "escribir",
+    "translation": "write",
+    "difficulty": 4
+  }
+]

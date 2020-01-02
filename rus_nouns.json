@@ -1,0 +1,591 @@
+[{
+ "qword":"человек",
+ "translation": ["man"],
+ "gender":	"masculine",
+ "difficulty": 0
+},{
+ "qword":"год",
+ "translation": ["year"],
+ "gender":	"masculine",
+ "difficulty": 0
+},{
+ "qword":"время",
+ "translation": ["time"],
+ "gender":	"neuter",
+ "difficulty": 0
+},{
+ "qword":"рука",
+ "translation": ["hand"],
+ "gender":	"feminine",
+ "difficulty": 0
+},{
+ "qword":"дело",
+ "translation": ["business"],
+ "gender":	"neuter",
+ "difficulty": 0
+},{
+ "qword":"раз",
+ "translation":["time"],
+ "gender":	"masculine",
+ "difficulty": 0
+},{
+ "qword":"глаз",
+ "translation": ["eye"],
+ "gender":	"masculine",
+ "difficulty": 0
+},{
+ "qword":"жизнь",
+ "translation": ["life"],
+ "gender":	"feminine",
+ "difficulty": 0
+},{
+ "qword":"день",
+ "translation": ["day"],
+ "gender":	"masculine",
+ "difficulty": 0
+},{
+ "qword":"голова",
+ "translation": ["head"],
+ "gender":	"feminine",
+ "difficulty": 0
+},{
+  "qword":"друг",
+  "translation": ["friend"],
+  "gender":"masculine",
+  "difficulty": 1
+ },
+ {
+  "qword":"дом",
+  "translation": ["house","home"],
+  "gender":"masculine",
+  "difficulty": 1
+ },
+ {
+  "qword":"слово",
+  "translation": ["word"],
+  "gender":"neuter",
+  "difficulty": 1
+ },
+ {
+  "qword":"место",
+  "translation": ["place, seat"],
+  "gender":"neuter",
+  "difficulty": 1
+ },
+ {
+  "qword":"лицо",
+  "translation": ["face, person"],
+  "gender":"neuter",
+  "difficulty": 1
+ },
+ {
+  "qword":"сторона",
+  "translation": ["side","party"],
+  "gender":"feminine",
+  "difficulty": 1
+ },
+ {
+  "qword":"нога",
+  "translation": ["foot","leg"],
+  "gender":"feminine",
+  "difficulty": 1
+ },
+ {
+  "qword":"дверь",
+  "translation": ["door"],
+  "gender":"feminine",
+  "difficulty": 1
+ },
+ {
+  "qword":"работа",
+  "translation": ["work","job"],
+  "gender":"feminine",
+  "difficulty": 1
+ },
+ {
+  "qword":"земля",
+  "translation": ["earth","land","soil"],
+  "gender":"feminine",
+  "difficulty": 1
+ },
+ {
+  "qword":"конец",
+  "translation": ["end","distance"],
+  "gender":"masculine",
+  "difficulty": 1
+ },
+ {
+  "qword":"час",
+  "translation": ["hour","time"],
+  "gender":"masculine",
+  "difficulty": 1
+ },
+ {
+  "qword":"голос",
+  "translation": ["voice"],
+  "gender":"masculine",
+  "difficulty": 1
+ },
+ {
+  "qword":"город",
+  "translation": ["town","city"],
+  "gender":"masculine",
+  "difficulty": 1
+ },
+ {
+  "qword":"вода",
+  "translation": ["water"],
+  "gender":"feminine",
+  "difficulty": 1
+ },
+ {
+  "qword":"стол",
+  "translation": ["table","desk, board"],
+  "gender":"masculine",
+  "difficulty": 1
+ },
+ {
+  "qword":"ребёнок",
+  "translation": ["child","kid","infant"],
+  "gender":"masculine",
+  "difficulty": 1
+ },
+ {
+  "qword":"сила",
+  "translation": ["strength","force"],
+  "gender":"feminine",
+  "difficulty": 1
+ },
+ {
+  "qword":"отец",
+  "translation": ["father"],
+  "gender":"masculine",
+  "difficulty": 1
+ },
+ {
+  "qword":"женщина",
+  "translation": ["woman"],
+  "gender":"feminine",
+  "difficulty": 1
+ },
+ {
+  "qword":"машина",
+  "translation": ["car","machine","engine"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"случай",
+  "translation": ["case","occasion","incident"],
+  "gender":"masculine",
+  "difficulty": 2
+ },
+ {
+  "qword":"ночь",
+  "translation": ["night"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"мир",
+  "translation": ["world","peace"],
+  "gender":"masculine",
+  "difficulty": 2
+ },
+ {
+  "qword":"вид",
+  "translation": ["appearance","look","view"],
+  "gender":"masculine",
+  "difficulty": 2
+ },
+ {
+  "qword":"ряд",
+  "translation": ["row","line"],
+  "gender":"masculine",
+  "difficulty": 2
+ },
+ {
+  "qword":"начало",
+  "translation": ["beginning","origin","source"],
+  "gender":"neuter",
+  "difficulty": 2
+ },
+ {
+  "qword":"вопрос",
+  "translation": ["question","matter","problem"],
+  "gender":"masculine",
+  "difficulty": 2
+ },
+ {
+  "qword":"война",
+  "translation": ["war"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"деньги",
+  "translation": ["money"],
+  "gender":"plural",
+  "difficulty": 2
+ },
+ {
+  "qword":"минута",
+  "translation": ["minute","moment"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"жена",
+  "translation": ["wife"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"правда",
+  "translation": ["truth"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"страна",
+  "translation": ["country"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"свет",
+  "translation": ["light, world"],
+  "gender":"masculine",
+  "difficulty": 2
+ },
+ {
+  "qword":"мать",
+  "translation": ["mother"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"товарищ",
+  "translation": ["comrade","friend"],
+  "gender":"masculine",
+  "difficulty": 2
+ },
+ {
+  "qword":"дорога",
+  "translation": ["road","way","journey"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"окно",
+  "translation": ["window","windowsill"],
+  "gender":"neuter",
+  "difficulty": 2
+ },
+ {
+  "qword":"комната",
+  "translation": ["a room"],
+  "gender":"feminine",
+  "difficulty": 2
+ },
+ {
+  "qword":"Москва",
+  "translation": ["Moscow"],
+  "gender":"feminine",
+  "difficulty": 3
+ },
+ {
+  "qword":"часть",
+  "translation": ["part","share","department"],
+  "gender":"feminine",
+  "difficulty": 3
+ },
+ {
+  "qword":"книга",
+  "translation": ["a book"],
+  "gender":"feminine",
+  "difficulty": 3
+ },
+ {
+  "qword":"улица",
+  "translation": ["street"],
+  "gender":"feminine",
+  "difficulty": 3
+ },
+ {
+  "qword":"душа",
+  "translation": ["soul","spirit"],
+  "gender":"feminine",
+  "difficulty": 3
+ },
+ {
+  "qword":"утро",
+  "translation": ["morning"],
+  "gender":"neuter",
+  "difficulty": 3
+ },
+ {
+  "qword":"вечер",
+  "translation": ["evening"],
+  "gender":"masculine",
+  "difficulty": 3
+ },
+ {
+  "qword":"пол",
+  "translation": ["floor, sex"],
+  "gender":"masculine",
+  "difficulty": 3
+ },
+ {
+  "qword":"народ",
+  "translation": ["people","nation"],
+  "gender":"masculine",
+  "difficulty": 3
+ },
+ {
+  "qword":"плечо",
+  "translation": ["shoulder","upper arm"],
+  "gender":"neuter",
+  "difficulty": 3
+ },
+ {
+  "qword":"бог",
+  "translation": ["god"],
+  "gender":"masculine",
+  "difficulty": 3
+ },
+ {
+  "qword":"взгляд",
+  "translation": ["look","glance, view"],
+  "gender":"masculine",
+  "difficulty": 3
+ },
+ {
+  "qword":"палец",
+  "translation": ["finger","toe"],
+  "gender":"masculine",
+  "difficulty": 3
+ },
+ {
+  "qword":"Россия",
+  "translation": ["Russia"],
+  "gender":"feminine",
+  "difficulty": 3
+ },
+ {
+  "qword":"история",
+  "translation": ["history","story","event"],
+  "gender":"feminine",
+  "difficulty": 3
+ },
+ {
+  "qword":"мысль",
+  "translation": ["thought","idea"],
+  "gender":"feminine",
+  "difficulty": 3
+ },
+ {
+  "qword":"сын",
+  "translation": ["son"],
+  "gender":"masculine",
+  "difficulty": 3
+ },
+ {
+  "qword":"лес",
+  "translation": ["forest"],
+  "gender":"masculine",
+  "difficulty": 3
+ },
+ {
+  "qword":"пора",
+  "translation": ["time, pore"],
+  "gender":"feminine",
+  "difficulty": 3
+ },
+ {
+  "qword":"имя",
+  "translation": ["name"],
+  "gender":"neuter",
+  "difficulty": 3
+ },
+ {
+  "qword":"разговор",
+  "translation": ["talk","conversation"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"тело",
+  "translation": ["body"],
+  "gender":"neuter",
+  "difficulty": 4
+ },
+ {
+  "qword":"стена",
+  "translation": ["wall"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"право",
+  "translation": ["right"],
+  "gender":"neuter",
+  "difficulty": 4
+ },
+ {
+  "qword":"старик",
+  "translation": ["old man"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"мама",
+  "translation": ["mummy","mum"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"путь",
+  "translation": ["way","track","path"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"месяц",
+  "translation": ["month"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"спина",
+  "translation": ["back"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"язык",
+  "translation": ["tongue","language"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"сердце",
+  "translation": ["heart"],
+  "gender":"neuter",
+  "difficulty": 4
+ },
+ {
+  "qword":"мальчик",
+  "translation": ["boy"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"небо",
+  "translation": ["sky"],
+  "gender":"neuter",
+  "difficulty": 4
+ },
+ {
+  "qword":"смерть",
+  "translation": ["death"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"девушка",
+  "translation": ["girl","miss"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"образ",
+  "translation": ["shape","form","image"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"письмо",
+  "translation": ["letter"],
+  "gender":"neuter",
+  "difficulty": 4
+ },
+ {
+  "qword":"власть",
+  "translation": ["power"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"воздух",
+  "translation": ["air"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"брат",
+  "translation": ["brother"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"отношение",
+  "translation": ["relationship","attitude"],
+  "gender":"neuter",
+  "difficulty": 4
+ },
+ {
+  "qword":"система",
+  "translation": ["system"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"квартира",
+  "translation": ["flat","apartment"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"любовь",
+  "translation": ["love"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"солдат",
+  "translation": ["soldier"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"хозяин",
+  "translation": ["master","boss","host"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"начальник",
+  "translation": ["chief","head","superior"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"школа",
+  "translation": ["school"],
+  "gender":"feminine",
+  "difficulty": 4
+ },
+ {
+  "qword":"парень",
+  "translation": ["boy","fellow","guy"],
+  "gender":"masculine",
+  "difficulty": 4
+ },
+ {
+  "qword":"кровь",
+  "translation": ["blood"],
+  "gender":"feminine",
+  "difficulty": 4
+ }
+]

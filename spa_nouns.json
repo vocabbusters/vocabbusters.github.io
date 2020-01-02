@@ -1,0 +1,502 @@
+[
+  {
+    "qword": "pueblo",
+    "translation": "people",
+    "difficulty": 0
+  },
+  {
+    "qword": "el tiempo",
+    "translation": "time",
+    "difficulty": 0
+  },
+  {
+    "qword": "el año",
+    "translation": "year",
+    "difficulty": 0
+  },
+  {
+    "qword": "la cosa",
+    "translation": "thing",
+    "difficulty": 0
+  },
+  {
+    "qword": "el camino",
+    "translation": "way",
+    "difficulty": 0
+  },
+  {
+    "qword": "el día",
+    "translation": "day",
+    "difficulty": 0
+  },
+  {
+    "qword": "el hombre",
+    "translation": "man",
+    "difficulty": 0
+  },
+  {
+    "qword": "el estado",
+    "translation": "state",
+    "difficulty": 0
+  },
+  {
+    "qword": "el lote",
+    "translation": "lot",
+    "difficulty": 0
+  },
+  {
+    "qword": "la mujer",
+    "translation": "woman",
+    "difficulty": 1
+  },
+  {
+    "qword": "el país",
+    "translation": "country",
+    "difficulty": 1
+  },
+  {
+    "qword": "la vida",
+    "translation": "life",
+    "difficulty": 1
+  },
+  {
+    "qword": "la cuestión",
+    "translation": "question",
+    "difficulty": 1
+  },
+  {
+    "qword": "el presidente",
+    "translation": "president",
+    "difficulty": 1
+  },
+  {
+    "qword": "el niño",
+    "translation": "child",
+    "difficulty": 1
+  },
+  {
+    "qword": "la semana",
+    "translation": "week",
+    "difficulty": 1
+  },
+  {
+    "qword": "el mundo",
+    "translation": "world",
+    "difficulty": 1
+  },
+  {
+    "qword": "el tipo",
+    "translation": "kind",
+    "difficulty": 1
+  },
+  {
+    "qword": "el caso",
+    "translation": "case",
+    "difficulty": 1
+  },
+  {
+    "qword": "el problema",
+    "translation": "problem",
+    "difficulty": 1
+  },
+  {
+    "qword": "el hecho",
+    "translation": "fact",
+    "difficulty": 1
+  },
+  {
+    "qword": "la familia",
+    "translation": "family",
+    "difficulty": 1
+  },
+  {
+    "qword": "la historia",
+    "translation": "story",
+    "difficulty": 1
+  },
+  {
+    "qword": "el punto",
+    "translation": "point",
+    "difficulty": 1
+  },
+  {
+    "qword": "el gobierno",
+    "translation": "government",
+    "difficulty": 1
+  },
+  {
+    "qword": "el dinero",
+    "translation": "money",
+    "difficulty": 1
+  },
+  {
+    "qword": "la cuestión",
+    "translation": "issue",
+    "difficulty": 1
+  },
+  {
+    "qword": "la parte",
+    "translation": "part",
+    "difficulty": 1
+  },
+  {
+    "qword": "la mañana",
+    "translation": "morning",
+    "difficulty": 1
+  },
+  {
+    "qword": "el chico",
+    "translation": "guy",
+    "difficulty": 2
+  },
+  {
+    "qword": "el número",
+    "translation": "number",
+    "difficulty": 2
+  },
+  {
+    "qword": "el trabajo",
+    "translation": "job",
+    "difficulty": 2
+  },
+  {
+    "qword": "la noche",
+    "translation": "night",
+    "difficulty": 2
+  },
+  {
+    "qword": "el derecho",
+    "translation": "right",
+    "difficulty": 2
+  },
+  {
+    "qword": "la escuela",
+    "translation": "school",
+    "difficulty": 2
+  },
+  {
+    "qword": "el lugar",
+    "translation": "place",
+    "difficulty": 2
+  },
+  {
+    "qword": "la guerra",
+    "translation": "war",
+    "difficulty": 2
+  },
+  {
+    "qword": "el niño",
+    "translation": "kid",
+    "difficulty": 2
+  },
+  {
+    "qword": "el mes",
+    "translation": "month",
+    "difficulty": 2
+  },
+  {
+    "qword": "el libro",
+    "translation": "book",
+    "difficulty": 2
+  },
+  {
+    "qword": "la hora",
+    "translation": "hour",
+    "difficulty": 2
+  },
+  {
+    "qword": "el show",
+    "translation": "show",
+    "difficulty": 2
+  },
+  {
+    "qword": "la policía",
+    "translation": "police",
+    "difficulty": 2
+  },
+  {
+    "qword": "el programa",
+    "translation": "program",
+    "difficulty": 2
+  },
+  {
+    "qword": "el partido",
+    "translation": "party",
+    "difficulty": 2
+  },
+  {
+    "qword": "la ley",
+    "translation": "law",
+    "difficulty": 2
+  },
+  {
+    "qword": "la palabra",
+    "translation": "word",
+    "difficulty": 2
+  },
+  {
+    "qword": "la persona",
+    "translation": "person",
+    "difficulty": 2
+  },
+  {
+    "qword": "el hogar",
+    "translation": "home",
+    "difficulty": 2
+  },
+  {
+    "qword": "el negocio",
+    "translation": "business",
+    "difficulty": 2
+  },
+  {
+    "qword": "el amigo",
+    "translation": "friend",
+    "difficulty": 2
+  },
+  {
+    "qword": "la empresa",
+    "translation": "company",
+    "difficulty": 2
+  },
+  {
+    "qword": "el lado",
+    "translation": "side",
+    "difficulty": 2
+  },
+  {
+    "qword": "el impuesto",
+    "translation": "tax",
+    "difficulty": 2
+  },
+  {
+    "qword": "el demócrata",
+    "translation": "democrat",
+    "difficulty": 2
+  },
+  {
+    "qword": "el grupo",
+    "translation": "group",
+    "difficulty": 2
+  },
+  {
+    "qword": "el momento",
+    "translation": "moment",
+    "difficulty": 2
+  },
+  {
+    "qword": "la ruptura",
+    "translation": "break",
+    "difficulty": 2
+  },
+  {
+    "qword": "la idea",
+    "translation": "idea",
+    "difficulty": 2
+  },
+  {
+    "qword": "el miembro",
+    "translation": "member",
+    "difficulty": 3
+  },
+  {
+    "qword": "el sistema de",
+    "translation": "system",
+    "difficulty": 3
+  },
+  {
+    "qword": "el minuto",
+    "translation": "minute",
+    "difficulty": 3
+  },
+  {
+    "qword": "la razón",
+    "translation": "reason",
+    "difficulty": 3
+  },
+  {
+    "qword": "la campaña",
+    "translation": "campaign",
+    "difficulty": 3
+  },
+  {
+    "qword": "la obra",
+    "translation": "work",
+    "difficulty": 3
+  },
+  {
+    "qword": "la nación",
+    "translation": "nation",
+    "difficulty": 3
+  },
+  {
+    "qword": "el congreso",
+    "translation": "congress",
+    "difficulty": 3
+  },
+  {
+    "qword": "la madre",
+    "translation": "mother",
+    "difficulty": 3
+  },
+  {
+    "qword": "la fuerza",
+    "translation": "force",
+    "difficulty": 3
+  },
+  {
+    "qword": "la salud",
+    "translation": "health",
+    "difficulty": 3
+  },
+  {
+    "qword": "la parte de atrás",
+    "translation": "back",
+    "difficulty": 3
+  },
+  {
+    "qword": "la zona",
+    "translation": "area",
+    "difficulty": 3
+  },
+  {
+    "qword": "el nombre",
+    "translation": "name",
+    "difficulty": 3
+  },
+  {
+    "qword": "el informe",
+    "translation": "report",
+    "difficulty": 3
+  },
+  {
+    "qword": "la mano",
+    "translation": "hand",
+    "difficulty": 3
+  },
+  {
+    "qword": "la línea",
+    "translation": "line",
+    "difficulty": 3
+  },
+  {
+    "qword": "el fin",
+    "translation": "end",
+    "difficulty": 3
+  },
+  {
+    "qword": "la corte",
+    "translation": "court",
+    "difficulty": 3
+  },
+  {
+    "qword": "el cuidado",
+    "translation": "care",
+    "difficulty": 3
+  },
+  {
+    "qword": "la pareja",
+    "translation": "couple",
+    "difficulty": 4
+  },
+  {
+    "qword": "la casa",
+    "translation": "house",
+    "difficulty": 4
+  },
+  {
+    "qword": "la americana",
+    "translation": "american",
+    "difficulty": 4
+  },
+  {
+    "qword": "el padre",
+    "translation": "father",
+    "difficulty": 4
+  },
+  {
+    "qword": "la situación",
+    "translation": "situation",
+    "difficulty": 4
+  },
+  {
+    "qword": "el coche",
+    "translation": "car",
+    "difficulty": 4
+  },
+  {
+    "qword": "el padre",
+    "translation": "parent",
+    "difficulty": 4
+  },
+  {
+    "qword": "la administración",
+    "translation": "administration",
+    "difficulty": 4
+  },
+  {
+    "qword": "la droga",
+    "translation": "drug",
+    "difficulty": 4
+  },
+  {
+    "qword": "la ciudad",
+    "translation": "city",
+    "difficulty": 4
+  },
+  {
+    "qword": "el sentido",
+    "translation": "sense",
+    "difficulty": 4
+  },
+  {
+    "qword": "la política",
+    "translation": "policy",
+    "difficulty": 4
+  },
+  {
+    "qword": "la oficina",
+    "translation": "office",
+    "difficulty": 4
+  },
+  {
+    "qword": "la decisión",
+    "translation": "decision",
+    "difficulty": 4
+  },
+  {
+    "qword": "el poder",
+    "translation": "power",
+    "difficulty": 4
+  },
+  {
+    "qword": "el plan",
+    "translation": "plan",
+    "difficulty": 4
+  },
+  {
+    "qword": "el líder",
+    "translation": "leader",
+    "difficulty": 4
+  },
+  {
+    "qword": "la información",
+    "translation": "information",
+    "difficulty": 4
+  },
+  {
+    "qword": "la elección",
+    "translation": "election",
+    "difficulty": 4
+  },
+  {
+    "qword": "la película",
+    "translation": "movie",
+    "difficulty": 4
+  },
+  {
+    "qword": "la muerte",
+    "translation": "death",
+    "difficulty": 4
+  }
+]

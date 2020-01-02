@@ -1,0 +1,82 @@
+[
+  {
+    "qword": 1,
+    "translation": "uno"
+  },
+  {
+    "qword": 2,
+    "translation": "dos"
+  },
+  {
+    "qword": 3,
+    "translation": "tres"
+  },
+  {
+    "qword": 4,
+    "translation": "cuatro"
+  },
+  {
+    "qword": 5,
+    "translation": "cinco"
+  },
+  {
+    "qword": 6,
+    "translation": "seis"
+  },
+  {
+    "qword": 7,
+    "translation": "siete"
+  },
+  {
+    "qword": 8,
+    "translation": "ocho"
+  },
+  {
+    "qword": 9,
+    "translation": "nueve"
+  },
+  {
+    "qword": 10,
+    "translation": "diez"
+  },
+  {
+    "qword": 11,
+    "translation": "once"
+  },
+  {
+    "qword": 12,
+    "translation": "doce"
+  },
+  {
+    "qword": 13,
+    "translation": "trece"
+  },
+  {
+    "qword": 14,
+    "translation": "catorce"
+  },
+  {
+    "qword": 15,
+    "translation": "quince"
+  },
+  {
+    "qword": 16,
+    "translation": "dieciséis"
+  },
+  {
+    "qword": 17,
+    "translation": "diecisiete"
+  },
+  {
+    "qword": 18,
+    "translation": "dieciocho"
+  },
+  {
+    "qword": 19,
+    "translation": "diecinueve"
+  },
+  {
+    "qword": 20,
+    "translation": "veinte"
+  }
+]

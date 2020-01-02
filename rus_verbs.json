@@ -1,0 +1,52 @@
+[{
+  "qword": "быть",
+  "translation": ["to be", "have"],
+  "aspect_pair": [],
+  "difficulty": 0
+},{
+  "qword": "сказать",
+  "translation": ["to say", "speak"],
+  "aspect_pair": ["говорить"],
+  "difficulty": 0
+},{
+  "qword": "мочь",
+  "translation": ["be able"],
+  "aspect_pair": ["смочь"],
+  "difficulty": 0
+},{
+  "qword": "говорить",
+  "translation": ["to say", "tell", "speak"],
+  "aspect_pair": ["сказать"],
+  "difficulty": 0
+},{
+  "qword": "знать",
+  "translation": ["to know", "be aware"],
+  "aspect_pair": ["узнать"],
+  "difficulty": 0
+},{
+  "qword": "стать",
+  "translation": ["to become", "begin", "come"],
+  "aspect_pair": ["становиться"],
+  "difficulty": 0
+},{
+  "qword": "есть",
+  "translation": ["to eat", "to be"],
+  "aspect_pair": ["съесть"],
+  "difficulty": 0
+},{
+  "qword": "хотеть",
+  "translation": ["to want", "like"],
+  "aspect_pair": ["захотеть"],
+  "difficulty": 0
+},{
+  "qword": "видеть",
+  "translation": ["to see"],
+  "aspect_pair": ["увидеть"],
+  "difficulty": 0
+},{
+  "qword": "идти",
+  "translation": ["to go", "come"],
+  "aspect_pair": ["пойти"],
+  "difficulty": 0
+}
+]

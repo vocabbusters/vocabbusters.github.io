@@ -1,0 +1,507 @@
+[
+  {
+    "qword": "être",
+    "translation": ["to be"],
+    "difficulty": 0
+  },
+  {
+    "qword": "avoir",
+    "translation": ["to have"],
+    "difficulty": 0
+  },
+  {
+    "qword": "pouvoir",
+    "translation": ["to be able (can)"],
+    "difficulty": 0
+  },
+  {
+    "qword": "faire",
+    "translation": ["to do","to make"],
+    "difficulty": 0
+  },
+  {
+    "qword": "mettre",
+    "translation": ["to put","to place"],
+    "difficulty": 0
+  },
+  {
+    "qword": "dire",
+    "translation": ["to say","to tell"],
+    "difficulty": 0
+  },
+  {
+    "qword": "devoir",
+    "translation": ["to have to ","must","to owe"],
+    "difficulty": 0
+  },
+  {
+    "qword": "prendre",
+    "translation": ["to take","to catch","to capture"],
+    "difficulty": 0
+  },
+  {
+    "qword": "donner",
+    "translation": ["to give","to produce"],
+    "difficulty": 0
+  },
+  {
+    "qword": "aller",
+    "translation": ["to go"],
+    "difficulty": 0
+  },
+  {
+    "qword": "vouloir",
+    "translation": ["to want","to wish"],
+    "difficulty": 0
+  },
+  {
+    "qword": "savoir",
+    "translation": ["to know"],
+    "difficulty": 0
+  },
+  {
+    "qword": "falloir",
+    "translation": ["to have to"],
+    "difficulty": 0
+  },
+  {
+    "qword": "voir",
+    "translation": ["to see"],
+    "difficulty": 0
+  },
+  {
+    "qword": "demander",
+    "translation": ["to ask","to request"],
+    "difficulty": 0
+  },
+  {
+    "qword": "trouver",
+    "translation": ["to find","to discover"],
+    "difficulty": 0
+  },
+  {
+    "qword": "rendre",
+    "translation": ["to return (something)","to give back"],
+    "difficulty": 0
+  },
+  {
+    "qword": "venir",
+    "translation": ["to come"],
+    "difficulty": 0
+  },
+  {
+    "qword": "passer",
+    "translation": ["to pass","to go past"],
+    "difficulty": 0
+  },
+  {
+    "qword": "comprendre",
+    "translation": ["to understand","to include","to comprehend"],
+    "difficulty": 1
+  },
+  {
+    "qword": "rester",
+    "translation": ["to stay","to remain"],
+    "difficulty": 1
+  },
+  {
+    "qword": "tenir",
+    "translation": ["to hold","to keep"],
+    "difficulty": 1
+  },
+  {
+    "qword": "porter",
+    "translation": ["to carry","to wear"],
+    "difficulty": 1
+  },
+  {
+    "qword": "parler",
+    "translation": ["to speak","to talk"],
+    "difficulty": 1
+  },
+  {
+    "qword": "montrer",
+    "translation": ["to show","to display"],
+    "difficulty": 1
+  },
+  {
+    "qword": "continuer",
+    "translation": ["to continue"],
+    "difficulty": 1
+  },
+  {
+    "qword": "penser",
+    "translation": ["to think"],
+    "difficulty": 1
+  },
+  {
+    "qword": "suivre",
+    "translation": ["to follow","to pay attention"],
+    "difficulty": 1
+  },
+  {
+    "qword": "connaître",
+    "translation": ["to know","to be acquainted with"],
+    "difficulty": 1
+  },
+  {
+    "qword": "croire",
+    "translation": ["to believe (in)"],
+    "difficulty": 1
+  },
+  {
+    "qword": "commencer",
+    "translation": ["to begin","to start","to commence"],
+    "difficulty": 1
+  },
+  {
+    "qword": "compter",
+    "translation": ["to count"],
+    "difficulty": 1
+  },
+  {
+    "qword": "entendre",
+    "translation": ["to hear","to understand"],
+    "difficulty": 1
+  },
+  {
+    "qword": "attendre",
+    "translation": ["to wait","to expect"],
+    "difficulty": 1
+  },
+  {
+    "qword": "remettre",
+    "translation": ["to put back, to replace","to deliver"],
+    "difficulty": 1
+  },
+  {
+    "qword": "appeler",
+    "translation": ["to call","to contact"],
+    "difficulty": 1
+  },
+  {
+    "qword": "permettre",
+    "translation": ["to permit","to allow","to enable"],
+    "difficulty": 1
+  },
+  {
+    "qword": "occuper",
+    "translation": ["to occupy","to take up (space/time)"],
+    "difficulty": 1
+  },
+  {
+    "qword": "devenir",
+    "translation": ["to become","to grow (into)","to turn (into)"],
+    "difficulty": 1
+  },
+  {
+    "qword": "partir",
+    "translation": ["to leave","to depart","to proceed"],
+    "difficulty": 2
+  },
+  {
+    "qword": "décider",
+    "translation": ["to decide","to persuade"],
+    "difficulty": 2
+  },
+  {
+    "qword": "arriver",
+    "translation": ["to arrive","to happen"],
+    "difficulty": 2
+  },
+  {
+    "qword": "servir",
+    "translation": ["to serve"],
+    "difficulty": 2
+  },
+  {
+    "qword": "sembler",
+    "translation": ["to seem"],
+    "difficulty": 2
+  },
+  {
+    "qword": "revenir",
+    "translation": ["to return","to come back"],
+    "difficulty": 2
+  },
+  {
+    "qword": "laisser",
+    "translation": ["to leave","to allow","to let"],
+    "difficulty": 2
+  },
+  {
+    "qword": "recevoir",
+    "translation": ["to receive","to welcome"],
+    "difficulty": 2
+  },
+  {
+    "qword": "répondre",
+    "translation": ["to answer","to reply"],
+    "difficulty": 2
+  },
+  {
+    "qword": "vivre",
+    "translation": ["to live"],
+    "difficulty": 2
+  },
+  {
+    "qword": "rappeler",
+    "translation": ["to call back","to remind"],
+    "difficulty": 2
+  },
+  {
+    "qword": "présenter",
+    "translation": ["to present","to introduce"],
+    "difficulty": 2
+  },
+  {
+    "qword": "accepter",
+    "translation": ["to accept"],
+    "difficulty": 2
+  },
+  {
+    "qword": "agir",
+    "translation": ["to act"],
+    "difficulty": 2
+  },
+  {
+    "qword": "poser",
+    "translation": ["to put down","to pose","to lay (something) down"],
+    "difficulty": 2
+  },
+  {
+    "qword": "jouer",
+    "translation": ["to play","to act","to gamble"],
+    "difficulty": 2
+  },
+  {
+    "qword": "reconnaître",
+    "translation": ["to recognize","to acknowledge"],
+    "difficulty": 2
+  },
+  {
+    "qword": "choisir",
+    "translation": ["to choose","to select"],
+    "difficulty": 2
+  },
+  {
+    "qword": "toucher",
+    "translation": ["to touch","to feel","to affect"],
+    "difficulty": 2
+  },
+  {
+    "qword": "aimer",
+    "translation": ["to like","to love"],
+    "difficulty": 2
+  },
+  {
+    "qword": "retrouver",
+    "translation": ["to find","to regain","to meet up"],
+    "difficulty": 3
+  },
+  {
+    "qword": "perdre",
+    "translation": ["to lose","to waste"],
+    "difficulty": 3
+  },
+  {
+    "qword": "expliquer",
+    "translation": ["to explain","to account for"],
+    "difficulty": 3
+  },
+  {
+    "qword": "considérer",
+    "translation": ["to consider","to study"],
+    "difficulty": 3
+  },
+  {
+    "qword": "ouvrir",
+    "translation": ["to open (up)"],
+    "difficulty": 3
+  },
+  {
+    "qword": "gagner",
+    "translation": ["to win","to gain","to earn"],
+    "difficulty": 3
+  },
+  {
+    "qword": "exister",
+    "translation": ["to exist"],
+    "difficulty": 3
+  },
+  {
+    "qword": "refuser",
+    "translation": ["to refuse"],
+    "difficulty": 3
+  },
+  {
+    "qword": "lire",
+    "translation": ["to read"],
+    "difficulty": 3
+  },
+  {
+    "qword": "réussir",
+    "translation": ["to succeed"],
+    "difficulty": 3
+  },
+  {
+    "qword": "changer",
+    "translation": ["to change","to alter"],
+    "difficulty": 3
+  },
+  {
+    "qword": "travailler",
+    "translation": ["to work"],
+    "difficulty": 3
+  },
+  {
+    "qword": "représenter",
+    "translation": ["to represent","to depict","to portray"],
+    "difficulty": 3
+  },
+  {
+    "qword": "assurer",
+    "translation": ["to secure","to assure","to insure"],
+    "difficulty": 3
+  },
+  {
+    "qword": "essayer",
+    "translation": ["to try","to attempt"],
+    "difficulty": 3
+  },
+  {
+    "qword": "empêcher",
+    "translation": ["to prevent","to stop"],
+    "difficulty": 3
+  },
+  {
+    "qword": "",
+    "translation": "",
+    "difficulty": 3
+  },
+  {
+    "qword": "sortir",
+    "translation": ["to go out","to leave","to exit","to come out"],
+    "difficulty": 3
+  },
+  {
+    "qword": "reprendre",
+    "translation": ["to resume","to recover","to take back"],
+    "difficulty": 3
+  },
+  {
+    "qword": "mener",
+    "translation": ["to lead","to conduct"],
+    "difficulty": 3
+  },
+  {
+    "qword": "appartenir",
+    "translation": ["to belong","to concern"],
+    "difficulty": 4
+  },
+  {
+    "qword": "risquer",
+    "translation": ["to risk"],
+    "difficulty": 4
+  },
+  {
+    "qword": "concerner",
+    "translation": ["to concern","to affect"],
+    "difficulty": 4
+  },
+  {
+    "qword": "apprendre",
+    "translation": ["to learn","to teach","to hear of"],
+    "difficulty": 4
+  },
+  {
+    "qword": "rencontrer",
+    "translation": ["to meet","to encounter"],
+    "difficulty": 4
+  },
+  {
+    "qword": "créer",
+    "translation": ["to create","to build"],
+    "difficulty": 4
+  },
+  {
+    "qword": "obtenir",
+    "translation": ["to obtain","to get"],
+    "difficulty": 4
+  },
+  {
+    "qword": "chercher",
+    "translation": ["to look for","to seek"],
+    "difficulty": 4
+  },
+  {
+    "qword": "entrer",
+    "translation": ["to enter","to go into"],
+    "difficulty": 4
+  },
+  {
+    "qword": "proposer",
+    "translation": ["to suggest","to propose","to offer"],
+    "difficulty": 4
+  },
+  {
+    "qword": "apporter",
+    "translation": ["to bring","to cause"],
+    "difficulty": 4
+  },
+  {
+    "qword": "utiliser",
+    "translation": ["to use","to employ"],
+    "difficulty": 4
+  },
+  {
+    "qword": "atteindre",
+    "translation": ["to reach","to attain","to achieve"],
+    "difficulty": 4
+  },
+  {
+    "qword": "tenter",
+    "translation": ["to tempt"],
+    "difficulty": 4
+  },
+  {
+    "qword": "importer",
+    "translation": ["to import","to matter"],
+    "difficulty": 4
+  },
+  {
+    "qword": "ajouter",
+    "translation": ["to add"],
+    "difficulty": 4
+  },
+  {
+    "qword": "produire",
+    "translation": ["to produce"],
+    "difficulty": 4
+  },
+  {
+    "qword": "préparer",
+    "translation": ["to prepare (something)","to make"],
+    "difficulty": 4
+  },
+  {
+    "qword": "relever",
+    "translation": ["to raise","to stand up","to pick up"],
+    "difficulty": 4
+  },
+  {
+    "qword": "écrire",
+    "translation": ["to write"],
+    "difficulty": 4
+  },
+  {
+    "qword": "défendre",
+    "translation": ["to defend","to stand up for","to forbid"],
+    "difficulty": 4
+  },
+  {
+    "qword": "tirer",
+    "translation": ["to pull","to fire (gun)","to print"],
+    "difficulty": 4
+  }
+]
