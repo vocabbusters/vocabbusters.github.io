@@ -13,7 +13,7 @@
 	<header>
 		<h1>Vocab Busters!</h1>
 	</header>
-			<div id ="stats_bar" class="Row">
+			<div id ="stats_bar" class="Row" style="max-width:600px">
 				<div id = "lbl_playerhp" class="Column" style="font-family:'AppleII'">HP:5</div>
 				<div id = "lbl_level" class="Column" style="font-family:'AppleII'">Level:0</div>
 				<div id = "lbl_key" class="Column" style="font-family:'AppleII'">Key:N</div>
@@ -25,6 +25,7 @@
 			<div id="battle_bar">
 				<b><u>Battle</u></b>
 				<hr>
+				<div class="Column">
 				<p id="lbl_question"></p>
 				<!-- text input -->
 				<div id="text_input">
@@ -32,6 +33,7 @@
 					<input type="button" name="btn_tsubmit" id="btn_tsubmit" value="ok">
 				</div>
 				<!-- multiple choice -->
+
 				<div id="radio_input">
 					<input type="radio" name="r_response" class="radios" id="r_response0" accesskey="1" value="va11"><label for="r_response0"></label><br>
 					<input type="radio" name="r_response" class="radios" id="r_response1" accesskey="2" value="val2"><label for="r_response1"></label><br>
@@ -39,7 +41,10 @@
                     <br>
 					<input type="button" name="btn_rsubmit" id="btn_rsubmit" value="ok" style="padding:5px">
 				</div>
-				<p id="lbl_result"></p>
+				</div>
+				<div class="Column">
+					<h2 id="lbl_result" style="padding-left:4vw"></h2>
+				</div>
 			</div>
 			<section id="console"></section>
 </article>
@@ -58,7 +63,7 @@
 	<script src="dist/rote.js" type="module"></script>
 	<script src="dist/chance.js"></script>
 	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
-	<script src="main.min.js" type="module"></script>
+	<script src="main.js" type="module"></script>
 </div>
 
 </body>
