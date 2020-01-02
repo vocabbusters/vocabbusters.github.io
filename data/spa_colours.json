@@ -1,0 +1,42 @@
+[
+  {
+    "qword": "Anaranjado",
+    "translation": "Orange"
+  },
+  {
+    "qword": "Amarillo",
+    "translation": "Yellow"
+  },
+  {
+    "qword": "Azul",
+    "translation": "Blue"
+  },
+  {
+    "qword": "Rojo",
+    "translation": "Red"
+  },
+  {
+    "qword": "Verde",
+    "translation": "Green"
+  },
+  {
+    "qword": "Negro",
+    "translation": "Black"
+  },
+  {
+    "qword": "Marrón",
+    "translation": "Brown"
+  },
+  {
+    "qword": "Rosado",
+    "translation": "Pink"
+  },
+  {
+    "qword": "Morado",
+    "translation": "Purple"
+  },
+  {
+    "qword": "Blanco",
+    "translation": "White"
+  }
+]

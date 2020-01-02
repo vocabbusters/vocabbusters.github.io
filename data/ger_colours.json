@@ -1,50 +1,50 @@
 [
  {
-   "qword": "red ",
-   "Translation": ["rot"]
+  "qword": "rot",
+  "translation":["red"]
  },
  {
-   "qword": "pink ",
-   "Translation": ["rosa"]
+  "qword": "rosa",
+  "translation":["pink"]
  },
  {
-   "qword": "orange ",
-   "Translation": ["orange"]
+  "qword": "orange",
+  "translation":["orange"]
  },
  {
-   "qword": "yellow ",
-   "Translation": ["gelb"]
+  "qword": "gelb",
+  "translation":["yellow"]
  },
  {
-   "qword": "green ",
-   "Translation": ["grün"]
+  "qword": "grün",
+  "translation":["green"]
  },
  {
-   "qword": "blue ",
-   "Translation": ["blau"]
+  "qword": "blau",
+  "translation":["blue"]
  },
  {
-   "qword": "purple ",
-   "Translation": ["lila"]
+  "qword": "lila",
+  "translation":["purple"]
  },
  {
-   "qword": "gray ",
-   "Translation": ["grau"]
+  "qword": "grau",
+  "translation":["gray"]
  },
  {
-   "qword": "brown ",
-   "Translation": ["braun"]
+  "qword": "braun",
+  "translation":["brown"]
  },
  {
-   "qword": "beige ",
-   "Translation": ["beige"]
+  "qword": "beige",
+  "translation":["beige"]
  },
  {
-   "qword": "white ",
-   "Translation": ["weiß"]
+  "qword": "weiß",
+  "translation":["white"]
  },
  {
-   "qword": "black ",
-   "Translation": ["schwarz"]
+  "qword": "schwarz",
+  "translation":"black"
  }
 ]
