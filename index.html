@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Vocab Busters</title>
-    <link rel="stylesheet" href="language.css" />
+    <link rel="stylesheet" href="language.css"/>
 </head>
 <body>
 
@@ -16,31 +16,34 @@
         find the stair key to the next level.<br><br>Then, do it all over again. <i>For ever!</i></p></div>
 
     <div class="Row"><h3>Select Language:</h3></div>
-        <div class="Row"><u>Russian</u></div>
-        <div class="Row"><input type="button" name="btn_rus" id="btn__full_rus" value="Play Full Dungeon!" onclick="window.location.href = 'game.html'+'?language=rus&mode=full';">
-        <input type="button" name="btn_rus" id="btn_noun_rus" value="Play Noun Dungeon!" onclick="window.location.href = 'game.html'+'?language=rus&mode=noun';"></div>
+
+    <div class="Row">
+        <select name="select_language" id="select_language" style="margin-left:1vw;">
+            <option value="fre">French</option>
+            <option value="ger">German</option>
+            <option value="rus">Russian</option>
+            <option value="spa">Spanish</option>
+        </select>
+    </div>
+
+    <div class="Row"><h3>Select Dungeon type:</h3></div>
+    <div style="margin-left:1vw;">
+        <input type="radio" name="select_dungeon" value="full">Full Dungeon<br>
+        <input type="radio" name="select_dungeon" value="noun">Noun Dungeon<br>
+    </div>
     <br>
-        <div class="Row"><u>German</u></div>
-        <div class="Row">
-            <input type="button" name="btn_ger" id="btn_ger" value="Play Full Dungeon!" onclick="window.location.href = 'game.html'+'?language=ger&mode=full';">
-            <input type="button" name="btn_ger" id="btn_noun_ger" value="Play Noun Dungeon!" onclick="window.location.href = 'game.html'+'?language=ger&mode=noun';">
-        </div>
+    <input type="button" name="btn_play" id="btn_play" value="Play!" onclick="play()" style="margin-bottom:1.5vw; margin-left:1vw; font-size:1.5vw">
     <br>
-    <div class="Row"><u>French</u></div>
-        <div class="Row">
-            <input type="button" name="btn_fre" id="btn_fre" value="Play Full Dungeon!" onclick="window.location.href = 'game.html'+'?language=fre&mode=full';">
-            <input type="button" name="btn_fre" id="btn_noun_fre" value="Play Noun Dungeon!" onclick="window.location.href = 'game.html'+'?language=fre&mode=noun';">
-        </div>
-    <br>
-    <div class ="Row" style="border: solid 4px rgba(255, 255, 255, 0.1);">
+
+    <div class="Row" style="border: solid 4px rgba(255, 255, 255, 0.1);">
         <b>Help:</b>
-    <ul>
-        <li>'Full Dungeon' will give a mix of vocab. types, Noun Dungeon is...only Nouns!</li>
-        <li>Use the arrow keys to move, and the 'Enter' key to use something.</li>
-        <li>One ghost per level carries the stair key.</li>
-        <li>Chests are denoted as a * symbol. They might contain useful items!</li>
-        <li>Stairs are denoted as a < or > symbol. You'll need a key before you can use them.</li>
-    </ul>
+        <ul>
+            <li>'Full Dungeon' will give a mix of vocab. types, Noun Dungeon is...only Nouns!</li>
+            <li>Use the arrow keys to move, and the 'Enter' key to use something.</li>
+            <li>One ghost per level carries the stair key.</li>
+            <li>Chests are denoted as a * symbol. They might contain useful items!</li>
+            <li>Stairs are denoted as a < or > symbol. You'll need a key before you can use them.</li>
+        </ul>
     </div>
     <div class="Row">
         <footer style="font-size:12px">
@@ -52,3 +55,23 @@
 </body>
 
 </html>
+<script>
+
+    function play() {
+        var language = document.getElementById("select_language").value;
+
+        var radios = document.getElementsByName('select_dungeon');
+
+        for (var i = 0, length = radios.length; i < length; i++) {
+            if (radios[i].checked) {
+                // do whatever you want with the checked radio
+                var mode = radios[i].value;
+
+                // only one radio can be logically checked, don't check the rest
+                break;
+            }
+        }
+        window.location.href = 'game.html' + '?language=' + language + '&mode=' + mode
+    }
+
+</script>
